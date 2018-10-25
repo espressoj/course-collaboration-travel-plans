@@ -58,6 +58,7 @@ h2 {
 #barcelona {
     background-color: #800000;
 }
+<<<<<<< HEAD
 
 #florida {
     background-color: #34ef42;
@@ -70,3 +71,14 @@ h2 {
 #scotland {
     background-color: #0000cc;
 }
+||||||| merged common ancestors
+=======
+
+#florida {
+    background-color: #21e242;
+}
+
+#paris {
+    background-color: #e37d83;
+}
+>>>>>>> 52ed5dcd820f747762e68e8152116b5e6b6e2749
